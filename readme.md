@@ -6,6 +6,10 @@ This project is a simple slider implemented using `HTML`, `CSS`, and `JavaScript
 1. **[Project Overview](##Project-Overview)**
 1. **[Technologies Used](##Technologies-Used)**
 1. **[Project Structure](##Project-Structure)**  
+1. **[Installation](##Installation)**  
+1. **[Usage](##Usage)**  
+1. **[Contributing](##Contributing)**  
+1. **[License](##License)**  
  ## Project Overview :   
 
 The Slider project consists of HTML files defining the structure of the slider, CSS files for styling, and JavaScript files for slider functionality. It utilizes Font Awesome for icons and Google Fonts for typography.   
