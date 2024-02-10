@@ -213,5 +213,5 @@ Contributions are welcome! Feel free to submit bug reports, feature requests, or
 1. Create a new Pull Request.
 
 ## License
-This project is licensed under the Mozilla Public License Version 2.0 (MPL-2.0). The MPL-2.0 is a permissive open-source license that allows you to use, modify, and distribute the code as long as any changes made to the original codebase are clearly documented and distributed under the same license terms. It provides a balance between ensuring software freedom and allowing for commercial use and proprietary modifications. For detailed information about the MPL-2.0 license terms and conditions, please refer to the [LICENSE](LICENSE)   file included in the project repository.  
+This project is licensed under the `Mozilla Public License Version 2.0 (MPL-2.0)`. The MPL-2.0 is a permissive open-source license that allows you to use, modify, and distribute the code as long as any changes made to the original codebase are clearly documented and distributed under the same license terms. It provides a balance between ensuring software freedom and allowing for commercial use and proprietary modifications. For detailed information about the MPL-2.0 license terms and conditions, please refer to the [LICENSE](LICENSE)   file included in the project repository.  
 
